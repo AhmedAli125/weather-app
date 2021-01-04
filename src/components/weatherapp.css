@@ -1,0 +1,50 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+    max-width: 80%;
+    min-width: 90%;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.search-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.search-box{
+    margin: 10px;
+    height: 5vh;
+    width: 60%;
+    border-radius: 5px;
+    border: 1px solid;
+    outline: none;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.button{
+    height: 8vh;
+    border-radius: 5px;
+    background-color: rgb(124, 124, 124);
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
